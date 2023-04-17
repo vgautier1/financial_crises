@@ -1,0 +1,3 @@
+____ Clean_databases ______________________________________________________________________________________________________________________________________________________________________________________________________________
+
+GLOBAL_panel : includes dates from the literature synthesized in three tabs (systemic banking crises, currency crises, sovereign debt crises) in panel format.
