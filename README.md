@@ -31,14 +31,14 @@ Nguyen T. C., Castro V. and Wood J. (2022)
 
 # Some results
 <p align="center">
-  <img width="750" height="600" src="graphs/BGR_cumulative_crises.PNG">
+  <img width="650" height="500" src="graphs/BGR_cumulative_crises.PNG">
 </p>
 <br>
 <p align="center">
-  <img width="650" height="600" src="graphs/BGR_twin_triple_same_year.PNG">
+  <img width="550" height="500" src="graphs/BGR_twin_triple_same_year.PNG">
 </p>
 <br>
 <p align="center">
-  <img width="650" height="600" src="graphs/BGR_twin_triple_one_year_apart.PNG">
+  <img width="550" height="500" src="graphs/BGR_twin_triple_one_year_apart.PNG">
 </p>
 
