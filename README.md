@@ -7,6 +7,7 @@ This dating is part of the study of financial crises and continues the work star
 
 # Path description
 | *Path* | Description |
+|---|---|
 
 - | *data/financial_crises/clean_databases* | Dates of the three types of crises in Excel format (banking, foreign exchange and debt) from the literature in an identical format (panel). Contains a file specific to each dating and a global file allowing comparisons between the different papers. | <br>
 - | *data/financial_crises/raw_databases*   | Dates of the three types of crises in Excel format (banking, foreign exchange and debt) from the literature without standardising the files (file as exported).  |<br>
@@ -21,13 +22,13 @@ This dating is part of the study of financial crises and continues the work star
 Definition of the crises retained in order to construct the dating.
 <br>
 ## Systemic banking crises
-Baron M., Verner E. and Xiong W. (2020).
+*Baron M., Verner E. and Xiong W. (2020)*.
 <br>
 ## Currency crises
-Frankel J. and Rose A. (1996) with Laeven L. and Valencia F. (2020) thresholds. 
+*Frankel J. and Rose A. (1996)* with *Laeven L. and Valencia F. (2020)* thresholds. 
 <br>
 ## Debt crises
-Nguyen T. C., Castro V. and Wood J. (2022)
+*Nguyen T. C., Castro V. and Wood J. (2022)*.
 
 # Some results
 <p align="center">
