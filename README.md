@@ -1,6 +1,6 @@
 # Motivations
 
-The objective of this directory is to gather the dating of crises (banking, foreign exchange and sovereign debt) existing in the literature in order to facilitate comparison and to propose the most up-to-date dating (January 2023) by making available the python programs allowing to build it.
+The objective of this directory is to gather the dating of crises (banking, currency and sovereign debt) existing in the literature in order to facilitate comparison and to propose the most up-to-date dating (January 2023) by making available the python programs allowing to build it.
 This dating is part of the study of financial crises and continues the work started in my paper ***"Early Warning System for Currency Crises Using Long Short-Term Memory and Gated Recurrent Unit Neural Networks"*** available in the *doc* directory (Barthelely_Gautier_Rondeau_2022).
 
 
