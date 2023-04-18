@@ -31,7 +31,7 @@ Nguyen T. C., Castro V. and Wood J. (2022)
 
 # Some results
 <p align="center">
-  <img width="650" height="500" src="graphs/BGR_cumulative_crises.PNG">
+  <img width="600" height="550" src="graphs/BGR_cumulative_crises.PNG">
 </p>
 <br>
 <p align="center">
