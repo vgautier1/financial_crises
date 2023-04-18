@@ -30,9 +30,11 @@ Frankel J. and Rose A. (1996) with Laeven L. and Valencia F. (2020) thresholds.
 Nguyen T. C., Castro V. and Wood J. (2022)
 
 # Some results
+<img src="graphs/BGR_cumulative_crises.PNG" width="20" />
 
-![Alt text](graphs/BGR_cumulative_crises.PNG?raw=true "Title")
 <br>
-![Alt text](graphs/BGR_twin_triple_same_year.PNG?raw=true "Title")
+![cumulative_crises](graphs/BGR_cumulative_crises.PNG?raw=true "Cumulative crises" {width=40px height=400px})
 <br>
-![Alt text](graphs/BGR_twin_triple_one_year_apart.PNG?raw=true "Title")
+![twin_triple_same_year](graphs/BGR_twin_triple_same_year.PNG?raw=true "Twin and triple crises same year")
+<br>
+![twin_triple_one_year_apart](graphs/BGR_twin_triple_one_year_apart.PNG?raw=true "Twin and triple crises one year apart")
