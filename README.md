@@ -22,4 +22,4 @@ This dating is part of the study of financial crises and continues the work star
 
 # --- Some results
 
-![Screenshot](BGR_cumulative_crises.png)
+![Alt text](BGR_cumulative_crises.PNG?raw=true "Title")
