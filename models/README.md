@@ -1,4 +1,4 @@
-# Models 
+# models 
 Contains three programs allowing the construction of a chronology of systemic banking, currency and sovereign debt crises, either totally (1 for crisis years, 0 otherwise) or partially (construction of indicators needed for dating, completed by a narrative).
 
 - *banking_crises.py*    : Dating systemic banking crises based on the criterion of *Baron M., Verner E. and Xiong W. (2020)*. This criterion is still insufficient to date banking crises, but it does help to identify vulnerable countries. 
