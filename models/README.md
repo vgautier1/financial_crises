@@ -12,5 +12,5 @@ Contains three programs allowing the construction of a chronology of systemic ba
 - *debt_crises.xlsx*     : Output of the programm debt_crises.py.
 
 The final dating is available in:
-- *../data/financial_crises/clean_databases/Barthelemy_Gautier_Rondeau_2023.xlsx*
+- *../data/financial_crises/clean_databases/Barthelemy_Gautier_Rondeau_2023.xlsx*,
 - *../data/financial_crises/clean_databases/GLOBAL_panel.xlsx* for comparisons with other dating in the literature.
