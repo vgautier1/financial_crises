@@ -54,6 +54,18 @@ A sovereign debt crisis occurs if one of the following conditions is met:
 
 The first year in which either of these conditions is met marks the beginning of a sovereign debt crisis. A debt crisis ends when total sovereign defaults, including debt restructuring or rescheduling, are below 1% of GDP.
 
+
+# Citation
+@misc{Financial crises,
+  author = {Gautier Virginie},
+  title = {Dating financial crises},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/vgautier1/financial_crises}},
+}
+
+
 # Some results
 <p align="center">
   <img width="600" height="450" src="graphs/BGR_cumulative_crises.PNG">
