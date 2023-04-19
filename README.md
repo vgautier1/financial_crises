@@ -58,6 +58,7 @@ The first year in which either of these conditions is met marks the beginning of
 <p align="center">
   <img width="600" height="450" src="graphs/BGR_cumulative_crises.PNG">
 </p>
+*The previous graph includes all crisis episodes that could be identified by our criteria. The sample may contain countries for which some criteria are not available simultaneously or not available over the entire period.*
 <br>
 <p align="center">
   <img width="550" height="500" src="graphs/BGR_twin_triple_same_year.PNG">
