@@ -6,9 +6,9 @@ Contains three programs allowing the construction of a chronology of systemic ba
 - *currency_crises.py*   : Dating of currency crises based on the *Frankel J. and Rose A (1996)*. criterion using the *Laeven L. and Valencia F. (2020)* thresholds of 30% and 10 percentage points. 
 			 The final dating includes a manual part concerning crises that took place in a close window and borderline crises (tolerance at 28% for the first threshold or 9 percentage points for the second threshold).
 - *debt_crises.py*       : Dating of sovereign debt crises based on the criterion of *Nguyen T.C., Castro V. and Wood J. (2022)*. 
-			 The final dating includes a manual part for borderline and end -of-period crises.
+			 The final dating includes a manual part for borderline and end-of-period crises.
 - *banking_crises.xlsx*  : Output of the programm banking_crises.py.
 - *currency_crises.xlsx* : Output of the programm currency_crises.py.
 - *debt_crises.xlsx*     : Output of the programm debt_crises.py.
 
-The final dating is available in *../data/financial_crises/clean_databases/Barthelemy_Gautier_Rondeau_2023.xlsx*.
+The final dating is available in *../data/financial_crises/clean_databases/Barthelemy_Gautier_Rondeau_2023.xlsx* or in *../data/financial_crises/clean_databases/GLOBAL_panel.xlsx* for comparisons with other dating in the literature.
