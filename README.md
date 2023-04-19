@@ -74,7 +74,7 @@ The first year in which either of these conditions is met marks the beginning of
 
 
 # Citation
-{Financial crises,
+@misc{Financial crises,
 <br>
  author = {Gautier Virginie},
  <br>
