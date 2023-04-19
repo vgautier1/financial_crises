@@ -69,4 +69,4 @@ The first year in which either of these conditions is met marks the beginning of
   <img width="550" height="500" src="graphs/BGR_twin_triple_one_year_apart.PNG">
 </p>
 
-*The Venn diagrams present the results only for the countries for which the three crisis criteria can be calculated and therefore only for the periods for which the three dates are available (this period may differ from one country to another). Twin or triple crises correspond to crises of different types that occur simultaneously or one year apart in **the same country/currency area.***
+*The Venn diagrams present the results only for the countries for which the three crisis criteria can be calculated and therefore only for the periods for which the three dates are available (this period may differ from one country to another). Twin or triple crises correspond to crises of different types that occur simultaneously or one year apart in the **same country/currency area.***
